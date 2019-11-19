@@ -1,0 +1,3 @@
+auth.username=user
+auth.password=password
+api.url=http://blah.blah.com/whatever
